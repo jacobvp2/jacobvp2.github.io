@@ -3,7 +3,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a student at the University of Illinois at Urbana Champaign.
 
 ```markdown
 Syntax highlighted code block
