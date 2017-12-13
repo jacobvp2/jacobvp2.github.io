@@ -1,9 +1,9 @@
 ## Welcome to the domain of Jacob Perakis
 
 
-### Markdown
+### About me:
 
-I am a student at the University of Illinois at Urbana Champaign.
+I am a freshman majoring in Computer Science at the University of Illinois at Urbana-Champaign.
 
 ```markdown
 Syntax highlighted code block
