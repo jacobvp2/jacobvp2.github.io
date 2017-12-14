@@ -19,7 +19,7 @@ I am a freshman majoring in Computer Science at the University of Illinois at Ur
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/jacobvp2) and ![Image](src)
 ```
 ```
 image 2
