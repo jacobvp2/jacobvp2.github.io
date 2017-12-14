@@ -10,15 +10,12 @@
 I am a freshman majoring in Computer Science at the University of Illinois at Urbana-Champaign.
 
 ```markdown
-## CONTACT INFO:
+# CONTACT INFO:
 
 - University Email: jacobvp2@illinois.edu
 - Personal Email: jperakis98@comcast.net
 - Phone: (630)379-4235
-
-
-1. Numbered
-2. List
+- GitHub: https://github.com/jacobvp2 
 
 **Bold** and _Italic_ and `Code` text
 
