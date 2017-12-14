@@ -15,23 +15,6 @@ CONTACT INFO:
 - University Email: jacobvp2@illinois.edu
 - Personal Email: jperakis98@comcast.net
 - Phone: (630)379-4235
-- GitHub: https://github.com/jacobvp2 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/jacobvp2) and ![Image](src)
 ```
-```
-image 2
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobvp2/jacobvp2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-[Link](https://github.com/jacobvp2)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[My github](https://github.com/jacobvp2)
