@@ -7,7 +7,7 @@
 ### About me:
 
 
-I am a freshman majoring in Computer Science at the University of Illinois at Urbana-Champaign.
+I am a freshman majoring in Computer Science at the University of Illinois at Urbana-Champaign. This is my first year coding ever and I am proficient in Java. I recently created a program that converts measurements in length, speed, and mass for those who do not like dimensional analysis by hand! Check it out on my github!
 
 ```markdown
 CONTACT INFO:
@@ -18,3 +18,4 @@ CONTACT INFO:
 ```
 
 [My github](https://github.com/jacobvp2)
+[LinkedIn] (https://www.linkedin.com/feed/)
