@@ -19,4 +19,4 @@ CONTACT INFO:
 
 [My github](https://github.com/jacobvp2)
 
-[LinkedIn](https://www.linkedin.com/feed/)
+[LinkedIn](https://www.linkedin.com/in/jacob-perakis-a9a893153/)
